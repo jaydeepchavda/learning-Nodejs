@@ -1,2 +1,0 @@
-this is what we know about the avacado: input file for reading avacado read file sync operation ------. 
-Created on 1731434549470
