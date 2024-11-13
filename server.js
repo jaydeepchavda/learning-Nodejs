@@ -13,7 +13,7 @@ const server = http.createServer((req,res)=>{
     else if(pathName === '/product'){
         res.end('This is the product page');
     }else{
-        res.end("This is Error page .......");
+        res.end("This page could not be found .........");
     }
 })
 
